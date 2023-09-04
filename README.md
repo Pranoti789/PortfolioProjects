@@ -2,7 +2,7 @@
 
 ## About Me
 I am a very keen data analyst with a wide interest in learning different technologies related to data analytics and visualisations. I am a Masters student specializing 
-in Data Analytics. I have work experience with data visualisation tool like Power Bi which best intrests me as well as Azure Data Analysis Services including 
+in Data Analytics. I have worked for Capgemini India in data visualisation tool like Power Bi which best intrests me as well as Azure Data Analysis Services including 
 Azure data Factory, Databricks. I have also leveraged my knowledge scope in learning Data Science and Machine Learning areas as a part of my M.Sc degree which is a positive
 addition to my skill sets. The projects below showcase some of my work in the above fields.
 
