@@ -2,8 +2,11 @@
 
 ## About Me
 I am a very keen data analyst with a wide interest in learning different technologies related to data analytics and visualisations. 
+
 👩‍🎓 Specialising in Data Analytics. 
+
 📊 Intrested in visualisation tool like Power Bi as well as Azure Data Analysis Services including Azure data Factory, Databricks. 
+
 🔍 I have also leveraged my knowledge scope in learning Data Science and Machine Learning areas
 
 📫 Reach out me  email id : pranotideshmukh789@gmail.com
