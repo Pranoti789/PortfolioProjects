@@ -2,11 +2,12 @@
 
 ## About Me
 I am a very keen data analyst with a wide interest in learning different technologies related to data analytics and visualisations. I am a Masters student specializing 
-in Data Analytics. I have worked for Capgemini India in data visualisation tool like Power Bi which best intrests me as well as Azure Data Analysis Services including 
-Azure data Factory, Databricks. I have also leveraged my knowledge scope in learning Data Science and Machine Learning areas as a part of my M.Sc degree which is a positive
-addition to my skill sets. The projects below showcase some of my work in the above fields.
+Specialised in Data Analytics. 
+Intrested in visualisation tool like Power Bi as well as Azure Data Analysis Services including 
+Azure data Factory, Databricks. 
+I have also leveraged my knowledge scope in learning Data Science and Machine Learning areas
 
-
+📫 Reach out me  email id : pranotideshmukh789@gmail.com
 ## Projects List
 1. [Project 1 Name](link-to-project-1): Description of project 1.
 2. [Project 2 Name](link-to-project-2): Description of project 2.
