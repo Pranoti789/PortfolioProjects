@@ -9,7 +9,7 @@ I am a very keen data analyst with a wide interest in learning different technol
 
 🔍 I have also leveraged my knowledge scope in learning Data Science and Machine Learning areas
 
-📫 Reach out me  email id : pranotideshmukh789@gmail.com
+
 ## Projects List
 1. [Project 1 Name](link-to-project-1): Description of project 1.
 2. [Project 2 Name](link-to-project-2): Description of project 2.
