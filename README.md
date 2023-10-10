@@ -11,8 +11,8 @@ I am a very keen data analyst with a wide interest in learning different technol
 
 
 ## BI Projects List
-1. [Service Performance Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGFhZDc3NTMtNzRjNS00MmVlLTkzMmEtNjFiMjg0YzY1MDFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) :  Service Performance Analysis Dashboard
-2. [Hotel Performance Insights](https://app.powerbi.com/view?r=eyJrIjoiZWRkOTAxMTEtYTEwNi00ZDQ3LThkYjItNGZhZWJkOGVjMDhhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9): Description of project 2.
+1. [Service Performance Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGFhZDc3NTMtNzRjNS00MmVlLTkzMmEtNjFiMjg0YzY1MDFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) :  Dashboard to enable the management team to monitor and respond swiftly to service issues, ensuring customer satisfaction
+2. [Hotel Performance Insights](https://app.powerbi.com/view?r=eyJrIjoiZWRkOTAxMTEtYTEwNi00ZDQ3LThkYjItNGZhZWJkOGVjMDhhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9): Informative dashboard to generate actionable insights from historical data to empower stakeholders, enhance revenue management, improve guest experiences, and revitalize the brand.
 
 
 ## Technologies and Tools
