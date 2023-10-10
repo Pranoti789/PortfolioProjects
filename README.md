@@ -10,10 +10,10 @@ I am a very keen data analyst with a wide interest in learning different technol
 🔍 I have also leveraged my knowledge scope in learning Data Science and Machine Learning areas
 
 
-## Projects List
-1. [Project 1 Name](link-to-project-1): Description of project 1.
-2. [Project 2 Name](link-to-project-2): Description of project 2.
-3. [Project 3 Name](link-to-project-3): Description of project 3.
+## BI Projects List
+1. [Service Performance Analysis Dashboard]([link-to-project-1](https://app.powerbi.com/view?r=eyJrIjoiMGFhZDc3NTMtNzRjNS00MmVlLTkzMmEtNjFiMjg0YzY1MDFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)): Service Performance Analysis Dashboard
+2. [Hotel Performance]([link-to-project-2](https://app.powerbi.com/view?r=eyJrIjoiZWRkOTAxMTEtYTEwNi00ZDQ3LThkYjItNGZhZWJkOGVjMDhhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)): Description of project 2.
+
 
 ## Technologies and Tools
 List the programming languages, frameworks, and tools you are familiar with.
