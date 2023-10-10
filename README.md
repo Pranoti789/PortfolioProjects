@@ -1,4 +1,4 @@
-# PortfolioProjects Pranoti
+
 
 ## About Me
 I am a very keen data analyst with a wide interest in learning different technologies related to data analytics and visualisations. 
