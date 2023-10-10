@@ -11,7 +11,7 @@ I am a very keen data analyst with a wide interest in learning different technol
 
 
 ## BI Projects List
-1. [Service Performance Analysis Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMGFhZDc3NTMtNzRjNS00MmVlLTkzMmEtNjFiMjg0YzY1MDFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]): Service Performance Analysis Dashboard
+1. [Service Performance Analysis Dashboard](https://app.powerbi.com/viewr=eyJrIjoiMGFhZDc3NTMtNzRjNS00MmVlLTkzMmEtNjFiMjg0YzY1MDFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]): Service Performance Analysis Dashboard
 2. [Hotel Performance]([link-to-project-2](https://app.powerbi.com/view?r=eyJrIjoiZWRkOTAxMTEtYTEwNi00ZDQ3LThkYjItNGZhZWJkOGVjMDhhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)): Description of project 2.
 
 
